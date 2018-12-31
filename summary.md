@@ -8,8 +8,5 @@
         
         P.S. 另推荐几本非常有用的思维类书籍：《如何阅读一本书》、《学会提问》、《批判性思维》。 
 
-2018.12.18 -
-        
-        计划：Effective C++, More Effective C++, SICP（计算机程序的构造和解释）前两章（时间太紧），Programming Pearls（编程珠玑）。
-        
-                12.18: 开始 Effective C++，同时双开 Programming Pearls.
+2018.12.18 - 12.31
+        看了两章CSAPP，读完Effective C++,开始STL源码剖析。
